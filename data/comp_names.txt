@@ -1,0 +1,6 @@
+INTC
+AMD
+GOOGL
+FB
+KO
+PEP
